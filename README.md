@@ -1,2 +1,2 @@
-# anki-flashcards
-Repo for Anki flashcards for studying
+# anki-flashcards for CSAI
+Repository of Anki flashcards for students studing Cognitive Science and Artificial Intelligence. 
