@@ -1,9 +1,14 @@
 # anki-flashcards for CSAI students
 Repository of Anki flashcards for the courses of students studying Cognitive Science and Artificial Intelligence, specifically cohort 2025-2026.
 
+## Available Decks
+
+### Introduction to Cognitive Science
+- [Download Introduction to Cognitive Science (SM1) deck](https://github.com/StanMar-bit/anki-flashcards/raw/main/Introduction%20to%20cognitive%20Science/Introduction%20to%20Cognitive%20Science%20(SM1).apkg)
+
 ## How to use
 1. Download the opensource flashcard tool [Anki](https://apps.ankiweb.net)
-2. Download the relevant .apkg file to get the deck from [decks](./decks.md)
+2. Download the relevant .apkg file to get the deck from the Available Decks section above
 3. Import the deck by double pressing it (when Anki is installed and running) or in the menu go to file and then choose import.
 
 ## Contributing 
