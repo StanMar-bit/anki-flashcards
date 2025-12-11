@@ -3,7 +3,7 @@ Repository of Anki flashcards for the courses of students studying Cognitive Sci
 
 ## How to use
 1. Download the opensource flashcard tool [Anki](https://apps.ankiweb.net)
-2. Download the relevant .apkg file to get the deck 
+2. Download the relevant .apkg file to get the deck from [decks](./decks.md)
 3. Import the deck by double pressing it (when Anki is installed and running) or in the menu go to file and then choose import.
 
 ## Contributing 
