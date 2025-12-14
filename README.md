@@ -6,6 +6,9 @@ Repository of Anki flashcards for the courses of students studying Cognitive Sci
 ### Introduction to Cognitive Science
 - [Download Introduction to Cognitive Science (SM1) deck](https://github.com/StanMar-bit/anki-flashcards/raw/main/Introduction%20to%20cognitive%20Science/Introduction%20to%20Cognitive%20Science%20(SM1).apkg)
 
+### Critical and Scientific Thinking
+- [Download Critical and Scientific Thinking (SM1) deck](https://github.com/StanMar-bit/anki-flashcards/raw/main/Criticial%20and%20Scientific%20Thinking/Critical%20and%20Scientific%20Thinking%20(SM1).apkg)
+
 ## How to use
 1. Download the opensource flashcard tool [Anki](https://apps.ankiweb.net)
 2. Download the relevant .apkg file to get the deck from the Available Decks section above
